@@ -20,8 +20,7 @@
  
  Senal Bulumulle 
 
-           .
-2018 openFOIL. 
+           
 This Script allows you to change the settings of the Splash Loader screen 
 ShowPage function feature allows you to change how many milliseconds it takes to "load the page or web application".
 It emulates how long it loads a web page as well. Followed by the setTimeout.
